@@ -1,12 +1,28 @@
-# React + Vite
+🏨 Hotel Booking Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern hotel booking web application built with React and deployed on Vercel.  
+This project provides an intuitive interface for users to browse, book, and manage hotel rooms easily.
 
-Currently, two official plugins are available:
+🌐 Live App: hotel-booking-react-liard.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📌 Features
 
-## Expanding the ESLint configuration
+- 🔍 Room Listings – Browse available rooms with details like price, amenities, and availability.  
+- 🏷️ Booking System – Book rooms with accurate details and user-friendly forms.  
+- 🖼️ Image Upload – Add and manage room images for better presentation.  
+- 📱 Responsive Design – Fully responsive UI for desktop, tablet, and mobile devices.  
+- ⚡ Fast & Optimized – Powered by React and deployed on Vercel for seamless performance.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+
+- Frontend: React, Tailwind CSS  
+- State Management:React Hooks / Redux (if used)  
+- Deployment:Vercel  
+- Other Tools: Axios, React Router (if included)  
+
+📧 Contact
+
+👤 Author: RAAJIV
+📩 Email: raajivraajiv417@gmail.com
+
+Thanks for visting my github profile...
